@@ -18,5 +18,5 @@ Created by Sharvai Patil (sp4479@g.rit.edu)
 
 ## Miscellaneous notes:
 1. lib/src/test/resources has 2 test files that are being used for testing. You can also use these files for testing. For the same, use the following commands:<br>
-gradlew run --args="src/test/resources/testing.txt"<br>
-gradlew run --args="src/test/resources/testing2.txt"
+gradlew run --args='"src/test/resources/testing.txt"'<br>
+gradlew run --args='"src/test/resources/testing2.txt"'
